@@ -1,0 +1,1 @@
+Adafruit_NeoPixel pixels(1, LED_PIN, NEO_GRB + NEO_KHZ800);
